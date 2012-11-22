@@ -1,0 +1,6 @@
+[submodule "Vendor/ILTesting"]
+	path = Vendor/ILTesting
+	url = git://github.com/InfiniteLoopDK/ILTesting.git
+[submodule "mbs-private"]
+	path = mbs-private
+	url = git@github.com:vanger-cat/mbs-private.git
